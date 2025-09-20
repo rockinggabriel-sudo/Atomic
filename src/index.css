@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Animated underline for internal links */
+.animated-underline {
+  position: relative;
+  display: inline-block;
+}
+
+.animated-underline::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: -2px;
+  left: 0;
+  background-color: #DC2626;
+  transition: width 0.3s ease-in-out;
+}
+
+.animated-underline:hover::after {
+  width: 100%;
+}
+
+/* Button hover animation - fade out to right with red outline */
+.animated-button {
+  position: relative;
+  overflow: hidden;
+  transition: all 0.3s ease;
+}
+
+.animated-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: inherit;
+  transition: transform 0.3s ease;
+  z-index: -1;
+}
+
+.animated-button:hover::before {
+  transform: translateX(100%);
+}
+
+.animated-button:hover {
+  background-color: transparent;
+  border: 2px solid #DC2626;
+  color: #DC2626;
+}
