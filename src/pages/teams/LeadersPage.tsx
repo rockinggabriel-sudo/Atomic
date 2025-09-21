@@ -7,10 +7,10 @@ const LeadersPage = () => {
   const leaders = [
     {
       id: 1,
-      name: 'AG Brody',
+      name: 'AG Shray',
       role: 'Founder & CEO',
       image: 'https://i.imgur.com/ThfpAhp.jpeg',
-      twitter: '@wydbrodyy'
+      twitter: '@shraywya'
     },
     {
       id: 2,
