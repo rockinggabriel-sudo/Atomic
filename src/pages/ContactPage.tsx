@@ -5,9 +5,9 @@ import { Mail, MapPin, Send, MessageSquare, Briefcase, Users, Disc as Discord } 
 const ContactPage = () => {
   // Configurable contact emails
   const contactEmails = {
-    general: 'contact@fratomic.org',
-    partnerships: 'contact@fratomic.org',
-    recruitment: 'contact@fratomic.org'
+    general: 'atomicinq@gmail.com',
+    partnerships: 'atomicinq@gmail.com',
+    recruitment: 'atomicinq@gmail.com'
   };
 
   const contactEmail = 'contact@fratomic.org';
