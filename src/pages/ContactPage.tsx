@@ -10,7 +10,7 @@ const ContactPage = () => {
     recruitment: 'atomicinq@gmail.com'
   };
 
-  const contactEmail = 'contact@fratomic.org';
+  const contactEmail = 'atomicinq@gmail.com';
 
   const [formData, setFormData] = useState({
     name: '',
