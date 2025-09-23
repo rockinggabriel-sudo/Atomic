@@ -38,19 +38,19 @@ const ContactPage = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: 'contact@fratomic.org',
+      details: 'atomicinq@gmail.com',
       description: 'For general inquiries and support'
     },
     {
       icon: Discord,
       title: 'Join Us',
-      details: 'discord.gg/fratomic',
+      details: 'discord.gg/atomicgaming ',
       description: 'Official Discord Community'
     },
     {
       icon: MapPin,
       title: 'Location',
-      details: 'Toronto, ON',
+      details: 'Charlotte, NC',
       description: 'Online Headquarters'
     }
   ];
