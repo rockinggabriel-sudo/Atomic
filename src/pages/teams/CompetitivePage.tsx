@@ -10,14 +10,14 @@ const CompetitivePage = () => {
       image: 'https://i.imgur.com/Jz82nly.png',
       players: [
         { 
-          name: 'AG Echo', 
+          name: 'AG Hajuu', 
           role: 'Pro Fortnite', 
           country: 'NAW',
-          image: 'https://i.imgur.com/Dp8KMpJ.jpeg',
-          stats: { pr: '65K', earnings: '$5.5K', grands: '2' }
+          image: 'https://imgur.com/a/UQpzPDF',
+          stats: { pr: '83K', earnings: '$10K', grands: '8' }
         },
         { 
-          name: 'AG DiegoPlayz', 
+          name: 'AG ???', 
           role: 'Pro Fortnite', 
           country: 'NAC',
           image: 'https://i.imgur.com/Tb7E068.jpeg',
