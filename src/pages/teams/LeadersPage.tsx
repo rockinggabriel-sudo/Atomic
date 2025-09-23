@@ -14,10 +14,10 @@ const LeadersPage = () => {
     },
     {
       id: 2,
-      name: 'AG Emirhan',
+      name: 'AG N0daz',
       role: 'President & Co-CEO',
-      image: 'https://i.imgur.com/oJnw0dh.jpeg',
-      twitter: '@ceo7urk'
+      image: 'https://imgur.com/a/xmWMDX5',
+      twitter: '@n0daz'
     },
     {
       id: 3,
