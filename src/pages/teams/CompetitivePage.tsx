@@ -13,7 +13,7 @@ const CompetitivePage = () => {
           name: 'AG Hajuu', 
           role: 'Pro Fortnite', 
           country: 'NAW',
-          image: 'https://imgur.com/a/UQpzPDF',
+          image: 'https://i.imgur.com/JkQPS6c.png',
           stats: { pr: '83K', earnings: '$10K', grands: '8' }
         },
         { 
