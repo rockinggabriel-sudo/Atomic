@@ -16,7 +16,7 @@ const LeadersPage = () => {
       id: 2,
       name: 'AG N0daz',
       role: 'President & Co-CEO',
-      image: 'https://imgur.com/a/xmWMDX5',
+      image: 'https://i.imgur.com/O16TY1ih.jpg',
       twitter: '@n0daz'
     },
     {
