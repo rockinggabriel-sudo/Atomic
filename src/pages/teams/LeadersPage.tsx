@@ -9,7 +9,7 @@ const LeadersPage = () => {
       id: 1,
       name: 'AG Shray',
       role: 'Founder & CEO',
-      image: 'https://i.imgur.com/ThfpAhp.jpeg',
+      image: 'https://imgur.com/a/QiGtgn0',
       twitter: '@shraywya'
     },
     {
@@ -21,24 +21,24 @@ const LeadersPage = () => {
     },
     {
       id: 3,
-      name: 'AG Aspect',
+      name: 'AG Ex',
       role: 'Chief Operations Officer',
       image: 'https://i.imgur.com/ZoUyLt1.jpeg',
       twitter: '@aspe5t'
     },
     {
       id: 4,
-      name: 'AG Supreme',
+      name: 'AG Pluto',
       role: 'Owner',
       image: 'https://i.imgur.com/x6cqzQY.jpeg',
-      twitter: '@5upreme9'
+      twitter: '@PlutoWeezyy'
     },
     {
       id: 5,
-      name: 'AG ???',
+      name: 'AG Jack',
       role: 'Co-Owner',
       image: 'https://i.imgur.com/2ciq90X.png',
-      twitter: '@fratomicc'
+      twitter: '@jacksmng'
     },
     {
       id: 6,
@@ -49,7 +49,7 @@ const LeadersPage = () => {
     },
     {
       id: 7,
-      name: 'AG Jama',
+      name: 'AG ???',
       role: 'Community Coordinator',
       image: 'https://i.imgur.com/6xp9Xat.jpeg',
       twitter: '@jamamgmt'
