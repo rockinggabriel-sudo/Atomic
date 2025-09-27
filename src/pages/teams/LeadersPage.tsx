@@ -9,7 +9,7 @@ const LeadersPage = () => {
       id: 1,
       name: 'AG Shray',
       role: 'Founder & CEO',
-      image: 'https://imgur.com/a/rPlJb2k',
+      image: 'https://imgur.com/a/SS0epyN',
       twitter: '@shraywya'
     },
     {
