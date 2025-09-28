@@ -21,7 +21,7 @@ const LeadersPage = () => {
     },
     {
       id: 3,
-      name: 'AG Ex',
+      name: 'AG ???',
       role: 'Chief Operations Officer',
       image: 'https://i.imgur.com/ZoUyLt1.jpeg',
       twitter: '@aspe5t'
