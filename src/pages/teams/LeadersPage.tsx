@@ -14,7 +14,7 @@ const LeadersPage = () => {
     },
     {
       id: 2,
-      name: '',
+      name: '???',
       role: 'President & Co-CEO',
       image: 'https://i.imgur.com/O16TY1ih.jpg',
       twitter: '@n0daz'
@@ -30,7 +30,7 @@ const LeadersPage = () => {
       id: 4,
       name: 'AG Ex',
       role: 'Owner',
-      image: 'https://imgur.com/a/Ggt1kL.jpeg',
+      image: 'https://i.imgur.com/Io4Moil.jpeg',
       twitter: '@AtSouthern1'
     },
     {
