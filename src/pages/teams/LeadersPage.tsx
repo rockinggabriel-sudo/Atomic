@@ -14,7 +14,7 @@ const LeadersPage = () => {
     },
     {
       id: 2,
-      name: 'AG N0daz',
+      name: '',
       role: 'President & Co-CEO',
       image: 'https://i.imgur.com/O16TY1ih.jpg',
       twitter: '@n0daz'
@@ -28,10 +28,10 @@ const LeadersPage = () => {
     },
     {
       id: 4,
-      name: 'AG Pluto',
+      name: 'AG Ex',
       role: 'Owner',
-      image: 'https://i.imgur.com/x6cqzQY.jpeg',
-      twitter: '@PlutoWeezyy'
+      image: 'https://imgur.com/a/Ggt1kLp',
+      twitter: '@AtSouthern1'
     },
     {
       id: 5,
