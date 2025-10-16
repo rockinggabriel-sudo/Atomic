@@ -30,7 +30,7 @@ const LeadersPage = () => {
       id: 4,
       name: 'AG Ex',
       role: 'Owner',
-      image: 'https://imgur.com/a/Ggt1kLp',
+      image: 'https://imgur.com/a/Ggt1kL.png',
       twitter: '@AtSouthern1'
     },
     {
